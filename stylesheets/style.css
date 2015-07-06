@@ -16,7 +16,7 @@ html, body {background: #333333; font-family: 'Lato', helvetica, arial, sans-ser
 .clear {clear: both;}
 
 p {
-	font-size: 1em;
+	font-size: 1.05em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
 	color: #444;
