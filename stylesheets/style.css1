@@ -33,7 +33,7 @@ Emph {
 #wholePage {
 	width: 90%;
 	max-width: 1000px;
-	background: #ffffff;
+	background: #f3f3f3;
 	margin: 30px auto;
 }
 
@@ -181,9 +181,9 @@ section:last-child {
 
 .paperInfo {
     float: right;
-    width: 70.5%;
+    width: 72.5%;
     height: 100%;
-    max-width: 70.5%;
+    max-width: 72.5%;
     max-height: 100%;
 }
 
